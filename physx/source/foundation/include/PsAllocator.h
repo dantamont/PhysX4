@@ -37,7 +37,7 @@
 
 #if(PX_WINDOWS_FAMILY || PX_XBOXONE)
 	#include <exception>
-	#include <typeinfo.h>
+	#include <typeinfo> // Change by Dante 3/4/2021
 #endif
 #if(PX_APPLE_FAMILY)
 	#include <typeinfo>
