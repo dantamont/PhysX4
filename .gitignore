@@ -1,2 +1,3 @@
 **/.vs/**
 physx/out/build/**
+/out/build/**
